@@ -1,0 +1,90 @@
+product_id,product_name,average_price,minimum_price,maximum_price,survey_date
+prod-987654321,Bracelete Artesanal de Prata,150.0,140.0,160.0,2024-04-25
+prod-123456789,Vaso de Cerâmica Pintado à Mão,120.0,100.0,140.0,2024-04-26
+prod-987654322,Anel de Ouro com Diamante,300.0,280.0,320.0,2024-04-27
+prod-123456790,Quadro Abstrato em Acrílico,200.0,180.0,220.0,2024-04-28
+prod-987654323,Colar de Pérolas Naturais,180.0,160.0,200.0,2024-04-29
+prod-123456791,Cadeira de Madeira Maciça,250.0,230.0,270.0,2024-04-30
+prod-987654324,Bolsa de Couro Legítimo,180.0,160.0,200.0,2024-05-01
+prod-123456792,Relógio de Pulso Analógico,100.0,80.0,120.0,2024-05-02
+prod-987654325,Sapato Social de Couro,150.0,130.0,170.0,2024-05-03
+prod-123456793,Cama Box Queen Size com Colchão,800.0,750.0,850.0,2024-05-04
+prod-987654326,Pulseira de Prata com Pingente,80.0,70.0,90.0,2024-05-05
+prod-123456794,Mesa de Jantar em Vidro Temperado,400.0,380.0,420.0,2024-05-06
+prod-987654327,Boné de Algodão Bordado,30.0,25.0,35.0,2024-05-07
+prod-123456795,Panela de Pressão em Aço Inox,60.0,50.0,70.0,2024-05-08
+prod-987654328,Carteira de Couro Sintético,40.0,35.0,45.0,2024-05-09
+prod-123456796,Chapéu de Palha Trançada,20.0,15.0,25.0,2024-05-10
+prod-987654329,Jaqueta Jeans Feminina,120.0,100.0,140.0,2024-05-11
+prod-123456797,Óculos de Sol Polarizado,70.0,60.0,80.0,2024-05-12
+prod-987654330,Blusa de Malha Estampada,50.0,40.0,60.0,2024-05-13
+prod-123456798,Brinquedo Educativo de Madeira,35.0,30.0,40.0,2024-05-14
+prod-987654331,Kit de Pincéis para Maquiagem,25.0,20.0,30.0,2024-05-15
+prod-123456799,Livro de Ficção Científica,20.0,15.0,25.0,2024-05-16
+prod-987654332,Conjunto de Toalhas de Banho,40.0,35.0,45.0,2024-05-17
+prod-123456800,Teclado Semifinal com Teclas Iluminadas,150.0,130.0,170.0,2024-05-18
+prod-987654333,Fone de Ouvido Bluetooth,60.0,50.0,70.0,2024-05-19
+prod-123456801,Mini Geladeira Portátil,200.0,180.0,220.0,2024-05-20
+prod-987654334,Carregador Portátil de Celular,30.0,25.0,35.0,2024-05-21
+prod-123456802,Caixa de Som Bluetooth à Prova d'Água,80.0,70.0,90.0,2024-05-22
+prod-987654335,Kit de Ferramentas para Casa,50.0,40.0,60.0,2024-05-23
+prod-123456803,Escova Elétrica de Dentes,40.0,35.0,45.0,2024-05-24
+prod-987654336,Luminária de Mesa LED,25.0,20.0,30.0,2024-05-25
+prod-123456804,Organizador de Maquiagem em Acrílico,20.0,15.0,25.0,2024-05-26
+prod-987654337,Porta-Retrato de Vidro com Detalhes em Metal,30.0,25.0,35.0,2024-05-27
+prod-123456805,Aparador de Pelos Elétrico,40.0,35.0,45.0,2024-05-28
+prod-987654338,Caneca Térmica de Aço Inox,20.0,15.0,25.0,2024-05-29
+prod-123456806,Massageador de Pescoço com Função de Aquecimento,50.0,40.0,60.0,2024-05-30
+prod-987654339,Chaveiro Personalizado,5.0,4.0,6.0,2024-05-31
+prod-123456807,Kit de Limpeza para Sapatos,15.0,10.0,20.0,2024-06-01
+prod-987654340,Cobertor de Microfibra,30.0,25.0,35.0,2024-06-02
+prod-123456808,Almofada Decorativa de Pelúcia,20.0,15.0,25.0,2024-06-03
+prod-987654341,Varal de Roupa Retrátil,40.0,35.0,45.0,2024-06-04
+prod-123456809,Tábua de Corte de Bambu,15.0,10.0,20.0,2024-06-05
+prod-987654342,Cesto Organizador de Roupas,25.0,20.0,30.0,2024-06-06
+prod-123456810,Pipoqueira Elétrica,35.0,30.0,40.0,2024-06-07
+prod-987654343,Guarda-Chuva Automático,20.0,15.0,25.0,2024-06-08
+prod-123456811,Pedra de Afiar Facas,10.0,8.0,12.0,2024-06-09
+prod-987654344,Caixa de Ferramentas Portátil,50.0,40.0,60.0,2024-06-10
+prod-123456812,Termômetro Digital para Cozinha,15.0,10.0,20.0,2024-06-11
+prod-987654345,Caneta Esferográfica,3.0,2.5,3.5,2024-06-12
+prod-123456813,Calculadora Científica,20.0,15.0,25.0,2024-06-13
+prod-987654346,Alicate de Corte,10.0,8.0,12.0,2024-06-14
+prod-123456814,Lanterna Recarregável,25.0,20.0,30.0,2024-06-15
+prod-987654347,Caixa de Organização Plástica,15.0,10.0,20.0,2024-06-16
+prod-123456815,Kit de Costura Completo,20.0,15.0,25.0,2024-06-17
+prod-987654348,Relógio Despertador Digital,10.0,8.0,12.0,2024-06-18
+prod-123456816,Canivete Suíço Multifuncional,30.0,25.0,35.0,2024-06-19
+prod-987654349,Balde de Metal Galvanizado,20.0,15.0,25.0,2024-06-20
+prod-123456817,Kit de Talheres para Churrasco,25.0,20.0,30.0,2024-06-21
+prod-987654350,Chave de Fenda Phillips,5.0,4.0,6.0,2024-06-22
+prod-123456818,Porta-Copos de Cortiça,10.0,8.0,12.0,2024-06-23
+prod-987654351,Lâmpada LED 9W,8.0,6.0,10.0,2024-06-24
+prod-123456819,Termômetro Digital Corporal,15.0,10.0,20.0,2024-06-25
+prod-987654352,Esponja de Limpeza Multiuso,5.0,4.0,6.0,2024-06-26
+prod-123456820,Porta-Retrato Magnético,10.0,8.0,12.0,2024-06-27
+prod-987654353,Escova de Limpeza para Banheiro,8.0,6.0,10.0,2024-06-28
+prod-123456821,Kit de Utensílios de Cozinha em Silicone,25.0,20.0,30.0,2024-06-29
+prod-987654354,Lixa de Unha Descartável,3.0,2.5,3.5,2024-06-30
+prod-123456822,Organizador de Gavetas,10.0,8.0,12.0,2024-07-01
+prod-987654355,Tesoura de Costura,8.0,6.0,10.0,2024-07-02
+prod-123456823,Trena 5 Metros,5.0,4.0,6.0,2024-07-03
+prod-987654356,Óleo Lubrificante Multiuso,15.0,10.0,20.0,2024-07-04
+prod-123456824,Adaptador de Tomada Universal,10.0,8.0,12.0,2024-07-05
+prod-987654357,Kit de Acessórios para Banheiro,20.0,15.0,25.0,2024-07-06
+prod-123456825,Pano de Microfibra para Limpeza,5.0,4.0,6.0,2024-07-07
+prod-987654358,Bucha Vegetal para Banho,3.0,2.5,3.5,2024-07-08
+prod-123456826,Porta-Sabonete Líquido,8.0,6.0,10.0,2024-07-09
+prod-987654359,Spray de Limpeza para Vidros,10.0,8.0,12.0,2024-07-10
+prod-123456827,Pasta de Dentes com Flúor,5.0,4.0,6.0,2024-07-11
+prod-987654360,Fita Isolante Elétrica,3.0,2.5,3.5,2024-07-12
+prod-123456828,Organizador de Fios e Cabos,8.0,6.0,10.0,2024-07-13
+prod-987654361,Parafuso Phillips,1.0,0.8,1.2,2024-07-14
+prod-123456829,Cadeado de Segurança,5.0,4.0,6.0,2024-07-15
+prod-987654362,Filtro de Linha,10.0,8.0,12.0,2024-07-16
+prod-123456830,Tesoura de Unha,3.0,2.5,3.5,2024-07-17
+prod-987654363,Cabo HDMI,5.0,4.0,6.0,2024-07-18
+prod-123456831,Estojo para Lápis,8.0,6.0,10.0,2024-07-19
+prod-987654364,Pilhas AAA Alcalinas,3.0,2.5,3.5,2024-07-20
+prod-123456832,Carregador de Pilhas,5.0,4.0,6.0,2024-07-21
+prod-987654365,Caneta Marca-Texto,1.0,0.8,1.2,2024-07-22

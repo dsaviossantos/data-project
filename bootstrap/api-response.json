@@ -1,0 +1,560 @@
+[
+  {
+    "id": "evt-123456789",
+    "timestamp": "2024-04-25T14:30:00Z",
+    "text": "Adoro as joias deste marketplace! Sempre encontro peças únicas e de ótima qualidade.",
+    "sentiment": {
+      "score": 0.95,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654321",
+      "name": "Bracelete Artesanal de Prata"
+    },
+    "user": {
+      "id": "usr-123456789",
+      "username": "artlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654321",
+    "timestamp": "2024-04-26T10:15:00Z",
+    "text": "Muito decepcionado com o serviço de entrega deste marketplace, demorou semanas e o produto chegou danificado.",
+    "sentiment": {
+      "score": 0.2,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-123456789",
+      "name": "Vaso de Cerâmica Pintado à Mão"
+    },
+    "user": {
+      "id": "usr-987654321",
+      "username": "ceramicfan"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-123456793",
+    "timestamp": "2024-05-03T11:15:00Z",
+    "text": "Que bela obra de arte! Estou apaixonado por este quadro que comprei neste marketplace. A entrega foi rápida e o produto veio muito bem embalado.",
+    "sentiment": {
+      "score": 0.98,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654325",
+      "name": "Pintura a Óleo sobre Tela"
+    },
+    "user": {
+      "id": "usr-987654325",
+      "username": "artcollector"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-987654325",
+    "timestamp": "2024-05-04T15:40:00Z",
+    "text": "Estou extremamente satisfeito com minha última compra. O produto é de alta qualidade e o atendimento ao cliente foi excepcional!",
+    "sentiment": {
+      "score": 0.97,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456792",
+      "name": "Escultura em Bronze"
+    },
+    "user": {
+      "id": "usr-123456793",
+      "username": "bronzeartlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-123456794",
+    "timestamp": "2024-05-05T10:25:00Z",
+    "text": "O produto que comprei neste marketplace chegou com defeito. Entrei em contato com o suporte, e eles foram muito prestativos em resolver a situação.",
+    "sentiment": {
+      "score": 0.4,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-987654326",
+      "name": "Estátua de Gesso"
+    },
+    "user": {
+      "id": "usr-987654326",
+      "username": "sculpturelover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-987654326",
+    "timestamp": "2024-05-06T09:10:00Z",
+    "text": "Incrível a rapidez na entrega do produto! Comprei ontem à noite e já recebi hoje de manhã. Estou muito impressionado!",
+    "sentiment": {
+      "score": 0.95,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456793",
+      "name": "Colar de Pérolas"
+    },
+    "user": {
+      "id": "usr-123456794",
+      "username": "pearllover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-123456795",
+    "timestamp": "2024-05-07T14:55:00Z",
+    "text": "Que desperdício de dinheiro! Comprei um item caro neste marketplace e ele chegou quebrado. Não recomendo!",
+    "sentiment": {
+      "score": 0.1,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-987654327",
+      "name": "Estatueta de Porcelana"
+    },
+    "user": {
+      "id": "usr-987654327",
+      "username": "porcelainlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654327",
+    "timestamp": "2024-05-08T11:30:00Z",
+    "text": "Adoro a seleção de jóias vintage deste marketplace! Sempre encontro peças únicas e cheias de história.",
+    "sentiment": {
+      "score": 0.93,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456794",
+      "name": "Anel de Ouro Antigo"
+    },
+    "user": {
+      "id": "usr-123456795",
+      "username": "vintagejewelrylover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-123456796",
+    "timestamp": "2024-05-09T09:00:00Z",
+    "text": "Estou muito feliz com minha compra! A pintura que adquiri é ainda mais impressionante pessoalmente.",
+    "sentiment": {
+      "score": 0.96,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654328",
+      "name": "Aquarela Original"
+    },
+    "user": {
+      "id": "usr-987654328",
+      "username": "watercolorlover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-987654328",
+    "timestamp": "2024-05-10T15:15:00Z",
+    "text": "O processo de compra foi simples e rápido. Além disso, o produto chegou bem embalado e em perfeitas condições. Recomendo este marketplace!",
+    "sentiment": {
+      "score": 0.98,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456795",
+      "name": "Escultura em Mármore"
+    },
+    "user": {
+      "id": "usr-123456796",
+      "username": "marbleartlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-123456797",
+    "timestamp": "2024-05-11T10:45:00Z",
+    "text": "Fiquei surpreso com a qualidade do produto que comprei neste marketplace. Definitivamente voltarei a comprar aqui.",
+    "sentiment": {
+      "score": 0.91,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654329",
+      "name": "Escultura em Madeira"
+    },
+    "user": {
+      "id": "usr-987654329",
+      "username": "woodsculpturelover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-987654329",
+    "timestamp": "2024-05-12T09:30:00Z",
+    "text": "Que péssima experiência! Recebi meu pedido com a embalagem danificada e o produto riscado. Não esperava isso deste marketplace.",
+    "sentiment": {
+      "score": 0.18,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-123456796",
+      "name": "Quadro Abstrato"
+    },
+    "user": {
+      "id": "usr-123456797",
+      "username": "abstractartlover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-123456798",
+    "timestamp": "2024-05-13T14:20:00Z",
+    "text": "Estou maravilhado com a beleza das jóias deste marketplace. Comprei um anel para minha esposa e ela amou!",
+    "sentiment": {
+      "score": 0.97,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654330",
+      "name": "Anel de Diamante"
+    },
+    "user": {
+      "id": "usr-987654330",
+      "username": "diamondlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654330",
+    "timestamp": "2024-05-14T11:05:00Z",
+    "text": "Que produto incrível! A qualidade é excepcional e o preço foi muito bom. Recomendo este marketplace para todos os amantes de arte.",
+    "sentiment": {
+      "score": 0.98,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456797",
+      "name": "Escultura em Alabastro"
+    },
+    "user": {
+      "id": "usr-123456798",
+      "username": "alabasterartlover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-123456799",
+    "timestamp": "2024-05-15T09:45:00Z",
+    "text": "Fiquei impressionado com a rapidez na entrega do meu pedido. O produto é exatamente como descrito. Muito satisfeito!",
+    "sentiment": {
+      "score": 0.95,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654331",
+      "name": "Estátua de Bronze"
+    },
+    "user": {
+      "id": "usr-987654331",
+      "username": "bronzestatuelover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-987654331",
+    "timestamp": "2024-05-16T15:30:00Z",
+    "text": "Que desapontamento! O produto que comprei chegou com defeito e a equipe de suporte demorou muito para resolver o problema.",
+    "sentiment": {
+      "score": 0.2,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-123456798",
+      "name": "Estatueta de Porcelana Chinesa"
+    },
+    "user": {
+      "id": "usr-123456799",
+      "username": "chineseporcelainlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-123456800",
+    "timestamp": "2024-05-17T10:00:00Z",
+    "text": "Adoro a seleção de arte moderna deste marketplace. Sempre encontro peças únicas e interessantes para adicionar à minha coleção.",
+    "sentiment": {
+      "score": 0.93,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654332",
+      "name": "Escultura Abstrata"
+    },
+    "user": {
+      "id": "usr-987654332",
+      "username": "modernartlover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-987654332",
+    "timestamp": "2024-05-18T09:20:00Z",
+    "text": "A qualidade dos produtos neste marketplace é incomparável. Sempre fico impressionado com cada compra.",
+    "sentiment": {
+      "score": 0.96,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456799",
+      "name": "Estátua de Gesso Pintada"
+    },
+    "user": {
+      "id": "usr-123456800",
+      "username": "gypsumstatuelover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-123456801",
+    "timestamp": "2024-05-19T14:45:00Z",
+    "text": "Que serviço horrível! Meu pedido está atrasado há semanas e o suporte ao cliente não responde às minhas mensagens.",
+    "sentiment": {
+      "score": 0.1,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-987654333",
+      "name": "Estatueta de Prata"
+    },
+    "user": {
+      "id": "usr-987654333",
+      "username": "silverstatuelover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654333",
+    "timestamp": "2024-05-20T11:10:00Z",
+    "text": "Estou muito feliz com minha compra neste marketplace! O produto é exatamente como descrito e chegou no prazo.",
+    "sentiment": {
+      "score": 0.97,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456800",
+      "name": "Estatueta de Bronze Dourado"
+    },
+    "user": {
+      "id": "usr-123456801",
+      "username": "goldbronzestatuelover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-123456802",
+    "timestamp": "2024-05-21T09:35:00Z",
+    "text": "Que experiência horrível! O produto que comprei chegou com defeito e o marketplace se recusa a reembolsar ou substituir.",
+    "sentiment": {
+      "score": 0.05,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-987654334",
+      "name": "Escultura de Mármore"
+    },
+    "user": {
+      "id": "usr-987654334",
+      "username": "marblestatuelover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-987654334",
+    "timestamp": "2024-05-22T15:05:00Z",
+    "text": "Adorei minha compra neste marketplace! O produto é de alta qualidade e a entrega foi muito rápida.",
+    "sentiment": {
+      "score": 0.98,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456801",
+      "name": "Quadro de Paisagem"
+    },
+    "user": {
+      "id": "usr-123456802",
+      "username": "landscapeartlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-123456803",
+    "timestamp": "2024-05-23T10:20:00Z",
+    "text": "Que decepção! O produto que recebi não corresponde à descrição. Estou muito insatisfeito com esta compra.",
+    "sentiment": {
+      "score": 0.15,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-987654335",
+      "name": "Escultura de Ferro Forjado"
+    },
+    "user": {
+      "id": "usr-987654335",
+      "username": "ironsculpturelover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-987654335",
+    "timestamp": "2024-05-24T09:00:00Z",
+    "text": "Que péssima experiência de compra! O produto que recebi estava danificado e o suporte ao cliente não resolveu o problema.",
+    "sentiment": {
+      "score": 0.1,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-123456802",
+      "name": "Estatueta de Bronze Patinada"
+    },
+    "user": {
+      "id": "usr-123456803",
+      "username": "patinatedbronzestatuelover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-123456804",
+    "timestamp": "2024-05-25T14:30:00Z",
+    "text": "Estou muito feliz com minha compra! A pintura que recebi é simplesmente deslumbrante.",
+    "sentiment": {
+      "score": 0.96,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654336",
+      "name": "Pintura a Acrílico sobre Tela"
+    },
+    "user": {
+      "id": "usr-987654336",
+      "username": "acrylicpaintinglover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-987654336",
+    "timestamp": "2024-05-26T10:15:00Z",
+    "text": "Que produto incrível! Estou impressionado com a qualidade da escultura que comprei neste marketplace.",
+    "sentiment": {
+      "score": 0.96,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456803",
+      "name": "Escultura de Gesso"
+    },
+    "user": {
+      "id": "usr-123456804",
+      "username": "gypsumsculpturelover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-123456805",
+    "timestamp": "2024-05-27T09:45:00Z",
+    "text": "Que experiência terrível! O produto que comprei chegou atrasado e danificado. Nunca mais comprarei neste marketplace.",
+    "sentiment": {
+      "score": 0.08,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-987654337",
+      "name": "Estatueta de Prata Antiga"
+    },
+    "user": {
+      "id": "usr-987654337",
+      "username": "antiquesilverstatuelover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-987654337",
+    "timestamp": "2024-05-28T15:20:00Z",
+    "text": "Estou maravilhado com a qualidade das esculturas neste marketplace. Cada peça é verdadeiramente única.",
+    "sentiment": {
+      "score": 0.96,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-123456804",
+      "name": "Escultura de Metal"
+    },
+    "user": {
+      "id": "usr-123456805",
+      "username": "metalartlover"
+    },
+    "source": "Twitter"
+  },
+  {
+    "id": "evt-123456806",
+    "timestamp": "2024-05-29T11:05:00Z",
+    "text": "Que bela peça de arte! Estou apaixonado pela escultura que comprei neste marketplace. A entrega foi rápida e o produto veio muito bem embalado.",
+    "sentiment": {
+      "score": 0.98,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654338",
+      "name": "Escultura em Madeira de Teca"
+    },
+    "user": {
+      "id": "usr-987654338",
+      "username": "teakwoodartlover"
+    },
+    "source": "Facebook"
+  },
+  {
+    "id": "evt-987654338",
+    "timestamp": "2024-05-30T09:30:00Z",
+    "text": "Que serviço horrível! Comprei um produto neste marketplace e até agora não recebi nenhuma atualização sobre o status do meu pedido.",
+    "sentiment": {
+      "score": 0.05,
+      "label": "negativo"
+    },
+    "product": {
+      "id": "prod-123456805",
+      "name": "Estátua de Pedra"
+    },
+    "user": {
+      "id": "usr-123456806",
+      "username": "stonestatuelover"
+    },
+    "source": "Instagram"
+  },
+  {
+    "id": "evt-123456807",
+    "timestamp": "2024-05-31T14:55:00Z",
+    "text": "Adoro a variedade de produtos deste marketplace. Sempre encontro algo único e especial para adicionar à minha coleção.",
+    "sentiment": {
+      "score": 0.94,
+      "label": "positivo"
+    },
+    "product": {
+      "id": "prod-987654339",
+      "name": "Escultura em Cerâmica"
+    },
+    "user": {
+      "id": "usr-987654339",
+      "username": "ceramicartlover"
+    },
+    "source": "Twitter"
+  }
+]
